@@ -1,1 +1,1 @@
-0.0.0.0 stuff.co.nz
+0.0.0.0 www.stuff.co.nz

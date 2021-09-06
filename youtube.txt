@@ -1,1 +1,17 @@
 # Youtube Supplimentary
+r1---sn-uo1-fabl.googlevideo.com
+r1.sn-uo1-fabl.googlevideo.com
+r2---sn-uo1-fabe.googlevideo.com
+r2.sn-uo1-fabe.googlevideo.com
+r2---sn-uo1-fabl.googlevideo.com
+r2.sn-uo1-fabl.googlevideo.com
+r3.sn-uo1-fabe.googlevideo.com
+r3---sn-uo1-fabe.googlevideo.com
+r3---sn-uo1-fabl.googlevideo.com
+r3.sn-uo1-fabl.googlevideo.com
+r3.sn-ntq7yner.googlevideo.com
+r3---sn-ntq7yner.googlevideo.com
+r5---sn-uo1-fabl.googlevideo.com
+r5.sn-uo1-fabl.googlevideo.com
+r4---sn-uo1-fabl.googlevideo.com
+r4.sn-uo1-fabl.googlevideo.com
